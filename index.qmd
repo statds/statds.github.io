@@ -1,0 +1,22 @@
+---
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/ldcgodoy
+    - icon: github
+      text: Github
+      href: https://github.com/lcgodoy
+---
+
+Hello there, I'm Lucas, a Ph.D. candidate studying Statistics at the UConn
+Department. My research interests primarily revolve around statistical
+computing, Bayesian inference, spatial statistics, and exploring innovative
+applications of statistical methodologies. Apart from that, I enjoy learning
+about programming languages and emerging technologies.
+
+If you browse through this website, you'll find some of my blog posts, mainly
+discussing R or statistical concepts, as well as my CV, publications, and
+ongoing projects.

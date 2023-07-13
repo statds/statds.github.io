@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute:
+  freeze: auto
+  
+website:
+  title: "Lucas Godoy"
+  search: true
+  cookie-consent: true
+  twitter-card: true
+  open-graph: true
+  site-url: https://lcgodoy.me
+  repo-url: https://github.com/lcgodoy/lcgodoy.github.io
+  repo-actions: [issue]
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - publications.qmd
+      - blog.qmd
+      - text: "CV"
+        href: cv.pdf
+    right:
+      - icon: github
+        href: https://github.com/lcgodoy
+      - icon: twitter
+        href: https://twitter.com/ldcgodoy
+  page-footer: 
+    left: "Copyright 2023, Lucas Godoy" 
+        
+format:
+  html:
+    theme: journal
+    toc: true
+    css: styles.css
+
+
+
