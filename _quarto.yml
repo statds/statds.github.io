@@ -8,20 +8,19 @@ execute:
   freeze: auto
   
 website:
-  title: "Lucas Godoy"
+  title: "Statistical Data Science Lab"
   search: true
   cookie-consent: true
   twitter-card: true
   open-graph: true
-  site-url: https://lcgodoy.me
-  repo-url: https://github.com/lcgodoy/lcgodoy.github.io
+  site-url: https://statcomp.org
+  repo-url: https://github.com/statds/statds.github.io
   repo-actions: [issue]
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - publications.qmd
-      - blog.qmd
       - text: "CV"
         href: cv.pdf
     right:
@@ -30,13 +29,12 @@ website:
       - icon: twitter
         href: https://twitter.com/ldcgodoy
   page-footer: 
-    left: "Copyright 2023, Lucas Godoy" 
+    left: "Copyright 2023, Jun Yan" 
         
 format:
   html:
     theme: journal
     toc: true
     css: styles.css
-
 
 
