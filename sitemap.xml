@@ -1,35 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://statds.github.io/about.html</loc>
-    <lastmod>2023-07-13T20:42:39.774Z</lastmod>
-  </url>
-  <url>
-    <loc>https://statds.github.io/blog.html</loc>
-    <lastmod>2023-07-13T20:42:40.574Z</lastmod>
+    <loc>https://statds.github.io/publications.html</loc>
+    <lastmod>2023-07-13T21:07:09.882Z</lastmod>
   </url>
   <url>
     <loc>https://statds.github.io/index.html</loc>
-    <lastmod>2023-07-13T20:42:41.168Z</lastmod>
-  </url>
-  <url>
-    <loc>https://statds.github.io/posts/jupyter_hpc/jupyter_hpc.html</loc>
-    <lastmod>2023-07-13T20:42:41.833Z</lastmod>
-  </url>
-  <url>
-    <loc>https://statds.github.io/posts/lmnet/2021-06-23-lmnnet.html</loc>
-    <lastmod>2023-07-13T20:42:43.805Z</lastmod>
-  </url>
-  <url>
-    <loc>https://statds.github.io/posts/models/models.html</loc>
-    <lastmod>2023-07-13T20:42:44.331Z</lastmod>
-  </url>
-  <url>
-    <loc>https://statds.github.io/publications.html</loc>
-    <lastmod>2023-07-13T20:42:44.974Z</lastmod>
-  </url>
-  <url>
-    <loc>https://statds.github.io/publications3.html</loc>
-    <lastmod>2023-07-13T20:42:45.499Z</lastmod>
+    <lastmod>2023-07-13T21:07:09.130Z</lastmod>
   </url>
 </urlset>
