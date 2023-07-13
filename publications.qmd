@@ -1,0 +1,119 @@
+# Publications
+
+::: {#list}
+:::
+
+::: {#refs .references .csl-bib-body .hanging-indent entry-spacing="1" line-spacing="2"}
+::: {#ref-arqub2023survival .csl-entry}
+Arqub, S. A., Bashir, R., Obeng, K., **Godoy, L. da C.**, Kuo, C.-L.,
+Upadhyay, M., & Yadav, S. (2023). Survival and failure rate of lower
+lingual bonded retainers: A retrospective cohort evaluation.
+*Orthodontics & Craniofacial Research*, *26*(2), 256--264.
+https://doi.org/<https://doi.org/10.1111/ocr.12608>
+:::
+
+::: {#ref-frank2023tolerability .csl-entry}
+Frank, S., Ibrahim, B., Feng, R., Bidra, A., Lafreniere, D., Kuo, C.-L.,
+**Godoy, L. da C.**, & Falcone, T. E. (2023). Tolerability of nasal and oral
+povidone-iodine antisepsis for in-office procedures. *Clinical
+Otolaryngology*, *48*(4), 696--699.
+https://doi.org/<https://doi.org/10.1111/coa.14045>
+:::
+
+::: {#ref-kuo2023association .csl-entry}
+Kuo, C.-L., Liu, R., **Godoy, L. da C.**, Pilling, L. C., Fortinsky, R. H.,
+& Brugge, D. (2023). Association between residential exposure to air
+pollution and incident coronary heart disease is not mediated by
+leukocyte telomere length: A UK biobank study. *Toxics*, *11*(6).
+<https://doi.org/10.3390/toxics11060489>
+:::
+
+::: {#ref-leonard2023dental .csl-entry}
+Leonard, J. F., Taxel, P., Kuo, C.-L., **Godoy, L. da C.**, & Freilich, M.
+(2023). Dental implant and bone augmentation treatment in
+bone-compromised patients: Oral health-related quality of life outcomes.
+*The Journal of Prosthetic Dentistry*.
+<https://doi.org/10.1016/j.prosdent.2023.01.011>
+:::
+
+::: {#ref-turshudzhyan2023alpha .csl-entry}
+Turshudzhyan, A., **Godoy, L. da C.**, Kuo, C.-L., & Wu, G. Y. (2023). Alpha
+feto-protein expression trends for screening early hepatocellular
+carcinoma. *Gene Expression*, *000*, 0--0.
+:::
+
+::: {#ref-arqub2022association .csl-entry}
+Arqub, S. A., Banankhah, S., Sharma, R., **Godoy, L. da C.**, Kuo, C.-L.,
+Ahmed, M., Alfardan, M., & Uribe, F. (2022). Association between initial
+complexity, frequency of refinements, treatment duration, and outcome in
+invisalign orthodontic treatment. *American Journal of Orthodontics and
+Dentofacial Orthopedics*. <https://doi.org/10.1016/j.ajodo.2022.06.017>
+:::
+
+::: {#ref-Rpkg:smile .csl-entry}
+**Godoy, L. da C.** (2022). *Smile: Spatial misalignment: Interpolation,
+linkage, and estimation*. <https://CRAN.R-project.org/package=smile>
+:::
+
+::: {#ref-godoy2022testing .csl-entry}
+**Godoy, L. da C.**, Assunção, R. M., & Butler, K. A. (2022). Testing the
+spatial association of different types of polygons. *Spatial
+Statistics*, *51*, 100695.
+<https://doi.org/10.1016/j.spasta.2022.100695>
+:::
+
+::: {#ref-godoy2022unified .csl-entry}
+**Godoy, L. da C.**, Prates, M. O., & Yan, J. (2022). *An unified framework
+for point-level, areal, and mixed spatial data: The hausdorff-gaussian
+process*. arXiv. <https://doi.org/10.48550/ARXIV.2208.07900>
+:::
+
+::: {#ref-hariharan2022evaluation .csl-entry}
+Hariharan, A., Arqub, S. A., Gandhi, V., **Godoy, L. da C.**, Kuo, C.-L., &
+Uribe, F. (2022). Evaluation of interproximal reduction in individual
+teeth, and full arch assessment in clear aligner therapy: Digital
+planning versus 3D model analysis after reduction. *Progress in
+Orthodontics*, *23*(1), 1--10.
+:::
+
+::: {#ref-kumar2022demand .csl-entry}
+Kumar, M., Patil, S., **Godoy, L. da C.**, Kuo, C.-L., Swede, H., Kuchel, G.
+A., & Chen, K. (2022). Demand ischemia as a predictor of mortality in
+older patients with delirium. *Frontiers in Cardiovascular Medicine*,
+*9*.
+:::
+
+::: {#ref-prates2022can .csl-entry}
+Prates, M. O., Azevedo, D. R. M., **Godoy, L. da C.**, & Bandyopadhyay, D.
+(2022). Can gaussian markov random fields handle spatial confounding?
+*Journal of the Indian Statistical Association*.
+:::
+
+::: {#ref-arqub2021patients .csl-entry}
+Arqub, S. A., Voldman, R., Ahmida, A., Kuo, C.-L., **Godoy, L. da C.**,
+Nasrawi, Y., Al-Khateeb, S. N., & Uribe, F. (2021). Patients'
+perceptions of orthodontic treatment experiences during COVID-19: A
+cross-sectional study. *Progress in Orthodontics*, *22*(1), 1--12.
+:::
+
+::: {#ref-boutrous2021use .csl-entry}
+Boutrous, M. L., Maseto, N., Kuo, C.-L., **Godoy, L. da C.**, & Amankwah, K.
+(2021). The use of multiple carotid stents is associated with increased
+incidence of developing in-stent stenosis on long-term follow-up.
+*Journal of Vascular Surgery*, *74*(3), e240--e241.
+:::
+
+::: {#ref-huynh2021examining .csl-entry}
+Huynh, C., **Godoy, L. da C.**, Kuo, C.-L., Smeds, M., & Amankwah, K. S.
+(2021). Examining the development of operative autonomy in vascular
+surgery training and when trainees and program directors agree and
+disagree. *Annals of Vascular Surgery*, *74*, 1--10.
+:::
+
+::: {#ref-lin2021impact .csl-entry}
+Lin, G., Murase, J. E., Murrell, D. F., **Godoy, L. da C.**, & Grant-Kels,
+J. M. (2021). The impact of gender in mentor-mentee success: Results
+from the women's dermatologic society mentorship survey. *International
+Journal of Women's Dermatology*.
+:::
+:::

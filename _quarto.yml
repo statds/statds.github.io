@@ -13,7 +13,7 @@ website:
   cookie-consent: true
   twitter-card: true
   open-graph: true
-  site-url: https://statcomp.org
+  site-url: https://statds.github.io
   repo-url: https://github.com/statds/statds.github.io
   repo-actions: [issue]
   navbar:
@@ -21,8 +21,6 @@ website:
       - text: "Home"
         href: index.qmd
       - publications.qmd
-      - text: "CV"
-        href: cv.pdf
     right:
       - icon: github
         href: https://github.com/lcgodoy
@@ -35,6 +33,6 @@ format:
   html:
     theme: journal
     toc: true
-    css: styles.css
+#    css: styles.css
 
 
