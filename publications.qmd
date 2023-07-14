@@ -375,7 +375,7 @@ Vaughan, G., Aseltine, R., Chiou, S. H., & **Yan, J.** (2016). An alarm
 system for flu outbreaks using google flu trend data. In J. Lin, B.
 Wang, X. Hu, K. Chen, & R. Liu (Eds.), *Statistical applications from
 clinical trials and personalized medicine to finance and business
-analytics: Selected papers from the 2015 ICSA/graybill applied
+analytics: Selected papers from the 2015 ICSA/Graybill applied
 statistics symposium, colorado state university, fort collins* (pp.
 293--304). Springer International Publishing.
 <https://doi.org/10.1007/978-3-319-42568-9_22>
@@ -757,8 +757,7 @@ Statistics*, *18*(2), 262--282.
 ::: {#ref-Yan:Gebr:esti:2009 .csl-entry}
 **Yan, J.**, & Gebremichael, M. (2009). Estimating actual rainfall from
 satellite rainfall products. *Atmospheric Research*, *92*(4), 481--488.
-[https://doi.org/DOI:
-10.1016/j.atmosres.2009.02.004](https://doi.org/DOI: 10.1016/j.atmosres.2009.02.004)
+<https://doi.org/10.1016/j.atmosres.2009.02.004>
 :::
 
 ::: {#ref-Yan:Huan:part:2009 .csl-entry}
@@ -857,6 +856,6 @@ structures (Pkg: P859-880). *Statistics in Medicine*, *23*(6), 859--874.
 ::: {#ref-Yan:Fine:repl:2004 .csl-entry}
 **Yan, J.**, & Fine, J. (2004). Reply to comment on "Estimating equations
 for association structures" (Pkg: 859-880). *Statistics in Medicine*,
-*23*(6), 879--880.
+*23*(6), 879--880. <https://doi.org/10.1002/sim.1736>
 :::
 :::
